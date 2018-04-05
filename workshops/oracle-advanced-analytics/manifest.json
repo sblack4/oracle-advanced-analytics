@@ -1,44 +1,36 @@
 {
     "workshop": {
-        "title": "Workshop Title",
-        "description": "Description of this workshop.",
-        "theme": "default",
+        "title": "Explore Oracle Advanced Analytics",
+        "description": "Survey Oracle's Advanced Analytics",
+        "theme": "theme-1",
         "interactive":"https://launch.oracle.com/?",
         "labs": [
             {
-                "number": "0",
-                "filename": "Intro-Instructor-Led.md",
-                "title": "Intro - Instructor Led",
-                "description": "Step-by-step workshop instructions"
-
-            },
-            {
                 "number": "100",
                 "filename": "LabGuide100.md",
-                "title": "Lab 100: Agile Project Management, plus an even longer section of text that will almost assuredly wrap unto the proximate lineage.",
-                "description": "Use Developer Cloud Service to create issues, tasks, and sprints, plus an even longer section of text that will almost assuredly wrap unto the proximate lineage, plus an even longer section of text that will almost assuredly wrap unto the proximate lineage."
+                "title": "Lab 100: Install ODM and ORE",
+                "description": "Get a little more background on the components of Oracle Advanced Analytics and install the tools."
 
             },
             {
                 "number": "200",
                 "filename": "LabGuide200.md",
-                "title": "Lab 200:  Title of Lab 200",
-                "description": "Short description of lab 200"
+                "title": "Lab 200: Data Science without Code",
+                "description": "Use the Oracle Data Miner extension for SQL Developer to create Extract Transform Load pipelines, train Machine Learning Algorithms, and clean Dirty Data - without all the technical headaches! "
 
             },
             {
                 "number": "300",
                 "filename": "LabGuide300.md",
-                "title": "Lab 300:  Title of Lab 300",
-                "description": "Short description of lab 300"
+                "title": "Lab 300:  Database Native Machine Learning",
+                "description": "Rather than develop and coordinate a series of Microservices to create and serve your Machine Learning Model do it all from your database with Oracle Data Mining PL/SQL API. "
 
             },
             {
                 "number": "400",
                 "filename": "LabGuide400.md",
-                "title": "Lab 400: Title of Lab 400",
-                "description": "Short description of lab 400"
-
+                "title": "Lab 400:  Advanced Data Integration with R",
+                "description": "Use Oracle R Enterprise to access your Oracle Database data and learn how to use Oracle R Advanced Analytics for Hadoop to do Big Data Integration. "
             }
 
 
