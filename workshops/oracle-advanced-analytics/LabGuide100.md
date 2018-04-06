@@ -80,17 +80,25 @@ TODO: should I document my run through [the official tutorial](http://www.oracle
 # Connecting SQL Developer to Oracle Database
 ![SQL Developer](images/100/sql-developer.PNG)
 
-## Connection Properties with DBaaS Montior
-
-TODO: again, the [official tutorial](http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/12c/r1/dm/dm_41/ODM12c-17-2_SetUp.html#overview) does a good job of this and so begs the question of whether or not it needs rewriting 
+## Get Connection Properties with DBaaS Montior
 
 Getting All of the connection details is easy with [DBaaS Monitor](), a service for monitoring the database and virtual machine in [Oracle Database Cloud Service](). 
 
 ![DBaaS Monitor Home](images/100/dbaas_monitor-home.PNG) 
 
+### **STEP 1**: Open Ports
+
+## **STEP 2**: Log In
+- Username: `dbaas_monitor`
+- Password: Admin password specified at instance creation
+
+## **STEP 3**: Get Connection Details
+![DBaaS Monitor Connection Details](images/100/dbaas_monitor-manage-connection.PNG)
 
 ## Connection Properties with SQL PLUS 
 TODO: how do you do this?!??! I should've written this when I started here
+
+If you don't have an Oracle Database Cloud Service instance than everything you need to connect SQL Developer to your database is available in SQL PLUS!
 
 ### **STEP 1**: Connection Name 
 
@@ -110,9 +118,12 @@ TODO: how do you do this?!??! I should've written this when I started here
 
 ### **STEP 6**: SID or Service name 
 
-## Connection Properties with SQL PLUS 
+## Get Connection Properties with SQL PLUS 
 TODO: how do you do this?!??! I should've written this when I started here
 
+## Enter Connection 
+And this is what your connection should look like once you've gotten all the information. My `Hostname` is set to `localhost` because I'm using [Local Port Forwarding](https://unix.stackexchange.com/questions/115897/whats-ssh-port-forwarding-and-whats-the-difference-between-ssh-local-and-remot) to let me connect with the Oracle Database Listener through SSH
+![SQL Developer DBCS Connection](images/100/sql-dev-dbcs-connection.PNG)
 
 </br>
 
