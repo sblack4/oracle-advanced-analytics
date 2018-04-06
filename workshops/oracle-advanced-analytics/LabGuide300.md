@@ -1,20 +1,17 @@
 ![](images/300/Picture-lab.png)  
-Updated: Date
+Updated: April 5, 2018
 
 ## Introduction
+Database Native Machine Learning
 
-Introductory Text
+## Prerequisites
+If you're missing any of these please refer to the previous labs :) 
 
-**_To log issues_**, click here to go to the [github oracle](https://github.com/oracle/learning-library/issues/new) repository issue submission form.
+- Oracle Database 12c or above
+- SQL Developer and Oracle Data Miner
+- A connection between the two 
+- Some framiliarity with SQL Developer and 
 
-## Objectives
-
-- Objective 1
-- Objective 2
-
-## Required Artifacts
-
-- List of Prerequisites
 
 # Main Heading 1
 

@@ -1,4 +1,5 @@
 # Explore Oracle Advanced Analytics 
+<!-- TODO: Refactor into clean, DRY modules -->
 
 ## About this Workshop
 
@@ -19,12 +20,17 @@ https://apexapps.oracle.com/pls/apex/f?p=44785:24:0::::P24_CONTENT_ID,P24_PREV_P
 
 
 </br>
+
 # Workshop Contents 
 
 </br>
+
 ## Lab 100: Install Oracle Data Miner and Oracle R Enterprise
 
-Link: [LabGuide100.md](LabGuide100.md)
+Contents in Brief for [LabGuide100.md](LabGuide100.md)
+* Set up an Oracle Database (without spending a dime)
+* Get SQL Developer & Oracle Data Miner (also free)
+* Connect your Database with SQL Developer (a guide in pictures)
 
 Get a little more background on the components of Oracle Advanced Analytics and install the tools
 
@@ -56,6 +62,20 @@ Use Oracle R Enterprise to access your Oracle Database data and learn how to use
 
 # Misc 
 
+## Issues 
+**_To log issues_**, click here to go to the [submit a new issue](https://github.com/oracle/learning-library/issues/new) repository issue submission form.
+
 ## Contributing 
+Contributions are welcome 😀 
 
 ## References/Learn More 
+
+* [Oracle Advanced Analytics (OAA)](http://www.oracle.com/technetwork/database/options/advanced-analytics/overview/index.html). 
+* [A Simple Guide to Oracle's Machine Leaerning and Advanced Analytics](https://blogs.oracle.com/datamining/a-simple-guide-to-oracle%E2%80%99s-machine-learning-and-advanced-analytics)
+\- A good reference written by the OAA PM
+
+OAA is really an umbrella term for a few different products: 
+* [Oracle R AA for Hadoop (ORAAH)](http://www.oracle.com/technetwork/database/database-technologies/bdc/r-advanalytics-for-hadoop/overview/index.html)
+* [Oracle Data Mining (ODM)](http://www.oracle.com/technetwork/database/options/advanced-analytics/odm/overview/index.html)
+* [Oracle R Enterprise (ORE)](http://www.oracle.com/technetwork/database/database-technologies/r/r-enterprise/overview/index.html)
+* [Oracle Machine Learning](http://www.oracle.com/technetwork/database/options/oml/overview/index.html)

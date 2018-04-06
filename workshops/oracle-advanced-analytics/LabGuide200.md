@@ -1,29 +1,40 @@
 ![](images/200/Picture-lab.png)  
-Updated: Date
+Updated: April 4, 2018
 
 ## Introduction
+Data Science without Code
 
-Introductory Text
+### Contents 
+* Getting Started with Oracle Data Miner
+* Dragging and Dropping your way to Data Science
+* Become an oracle: Predict the Future
 
-**_To log issues_**, click here to go to the [github oracle](https://github.com/oracle/learning-library/issues/new) repository issue submission form.
+</br>
 
-## Objectives
+## Prerequisites 
+If you're missing any of these please refer to the previous labs :) 
 
-- Objective 1
-- Objective 2
+- Oracle Database 12c or above
+- SQL Developer and Oracle Data Miner
+- A connection between the two 
 
-## Required Artifacts
 
-- List of Prerequisites
+</br>
 
-# Main Heading 1
+# Hello Oracle Data Miner
 
-## Sub Heading 1
+## Getting GUI With It 
+For those of us who don't love tech acronyms, GUI stands for Graphical User Interface. 
 
-### **STEP 1**: Title of Step 1
 
-- Instructions for Step 1
+# More Complex Workflows
 
-### **STEP 2**: Title of Step 2
+## Workflow Options 
 
-- Instructions for Step 2
+# Predicting the Future: Machine Learning
+
+## A list of Models
+
+## PL/SQL What???
+
+## Example Scripts
