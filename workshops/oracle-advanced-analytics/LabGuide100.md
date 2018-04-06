@@ -20,7 +20,7 @@ You can follow one (or more) of the below sets of instructions to get access to 
 
 </br>
 
-## Learn and Share SQL in our browser
+## Learn and Share SQL in your browser
 [Oracle Live SQL](https://livesql.oracle.com/apex/livesql/file/index.html) lets us start coding instantly! Just head to this URL and click "Start Coding Now". 
 
 The drawback to Live SQL is we won't be able to connect SQL Developer and Oracle Data Miner, and so won't be able to use the Oracle Data Miner graphical 
@@ -73,7 +73,7 @@ TODO: instructions
 </br>
 
 # Connecting SQL Developer to Oracle Database
-TODO: add pictures of SQL Developer UI 
+![](images/100/sql-developer.PNG)
 
 ## Connection Properties 
 

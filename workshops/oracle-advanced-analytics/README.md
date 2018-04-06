@@ -1,27 +1,23 @@
 # Explore Oracle Advanced Analytics 
 <!-- TODO: Refactor into clean, DRY modules -->
 
-## About this Workshop
-
 <p align="center">
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/55d948c4e07007e169299a02b4dfe6db/construction.png" style="margin:auto;"/>
 </p>
 </br>
 
-#### install ODM
-https://blogs.oracle.com/datamining/evaluating-oracle-data-mining-has-never-been-easier-evaluation-kit-available-%E2%80%A2-updated-for-oracle-database-122c-sqldev-42 
+## About this Workshop
 
-#### ODM 
-https://apexapps.oracle.com/pls/apex/f?p=44785:24:0::::P24_CONTENT_ID,P24_PREV_PAGE:11925,1 
-
-
-#### ORE 
-https://apexapps.oracle.com/pls/apex/f?p=44785:24:0::::P24_CONTENT_ID,P24_PREV_PAGE:8984,1 
+## Contents in Brief
+This Workshop was inspired by, and loosely based off a few tutorials and articles 
+- The *[Oracle Data Mining 17.2 OBE Series](https://apexapps.oracle.com/pls/apex/f?p=44785:24:13318499153035::NO::P24_CONTENT_ID%2CP24_PREV_PAGE:11925%2C1)* tutorials list of 6 tutorials
+- The [Oracle R Enterprise v 1.4 - Tutorial Series](https://apexapps.oracle.com/pls/apex/f?p=44785:24:0::::P24_CONTENT_ID,P24_PREV_PAGE:8984,1) of 8 lessons 
+- Oracle's [Database Cloud Service Workshop](https://oracle.github.io/learning-library/workshops/dbcs-dba/)
 
 
 </br>
 
-# Workshop Contents 
+# Workshop Contents
 
 </br>
 
