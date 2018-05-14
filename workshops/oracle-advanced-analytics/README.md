@@ -14,6 +14,7 @@ This Workshop was inspired by, and loosely based off a few tutorials and article
 - The [Oracle R Enterprise v 1.4 - Tutorial Series](https://apexapps.oracle.com/pls/apex/f?p=44785:24:0::::P24_CONTENT_ID,P24_PREV_PAGE:8984,1) of 8 lessons 
 - Oracle's [Database Cloud Service Workshop](https://oracle.github.io/learning-library/workshops/dbcs-dba/)
 
+For information about the progress/direction of this journey please see the [CHANGELOG.md](./CHANGELOG.md)
 
 </br>
 
